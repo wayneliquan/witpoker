@@ -1,0 +1,7 @@
+test git status
+git diff
+
+git add ***
+git commit -sm"***"
+git push
+
